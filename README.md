@@ -1,1 +1,1 @@
-# squarespace
+Created using "gsap".
